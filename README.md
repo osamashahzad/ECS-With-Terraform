@@ -5,7 +5,7 @@ This repository contains Terraform scripts to deploy a containerized application
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The infrastructure provisioned by this project includes:
 
@@ -18,5 +18,5 @@ The infrastructure provisioned by this project includes:
 
 ## 🖼️ Architecture Diagram
 
-![ECS Architecture](images/ECS-Architecture.png)
+![ECS Architecture](ECS-Architecture.png)
 
